@@ -20,6 +20,6 @@ for i in range(1, 10000):
                                    }
                                ],
                                "description": "Numbers collection",
-                               "image": f'https://raw.githubusercontent.com/Naranbayar/sample-nft-data/main/images/{i}.png',
+                               "image": f'https://raw.githubusercontent.com/Naranbayar/sample-nft-data/master/images/{i}.png',
                                "name": f'Number #{i}'
                            }))

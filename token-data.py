@@ -16,7 +16,10 @@ for i in range(1, 10000):
                                    {
                                        "trait_type": "Number",
                                        "value": f'{i}',
-                                       "is_prime": f'{is_prime(i)}',
+                                   },
+                                   {
+                                       "trait_type": "Prime",
+                                       "value": f'{is_prime(i)}',
                                    }
                                ],
                                "description": "Numbers collection",

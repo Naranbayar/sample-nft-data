@@ -1,1 +1,1 @@
-{"attributes": [{"trait_type": "Number", "value": "7709", "is_prime": "False"}], "description": "Numbers collection", "image": "https://raw.githubusercontent.com/Naranbayar/sample-nft-data/master/images/7709.png", "name": "Number #7709"}
+{"attributes": [{"trait_type": "Number", "value": "7709"}, {"trait_type": "Prime", "value": "False"}], "description": "Numbers collection", "image": "https://raw.githubusercontent.com/Naranbayar/sample-nft-data/master/images/7709.png", "name": "Number #7709"}
